@@ -1,0 +1,16 @@
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\bin\Debug\OpenTK.dll.config
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe.config
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.exe
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\bin\Debug\OpenTK_winforms_z01.pdb
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\bin\Debug\OpenTK.dll
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.dll
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\bin\Debug\OpenTK.xml
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\bin\Debug\OpenTK.GLControl.xml
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.AssemblyReference.cache
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.OpenGLWnd.resources
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.Properties.Resources.resources
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.GenerateResource.cache
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.CoreCompileInputs.cache
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.CopyComplete
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.exe
+C:\Users\luusiano\Desktop\Lab10-CatargiuStefan\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.pdb
